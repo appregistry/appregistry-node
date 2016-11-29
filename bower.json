@@ -1,0 +1,35 @@
+{
+  "name": "appreigistry-node",
+  "version": "0.0.0",
+  "description": "AppRegistry Resources for Node",
+  "authors": [
+    "AppRegistry"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/appregistry/appregistry-node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.7",
+    "font-awesome": "^4.6.3",
+    "moment": "^2.13.0",
+    "lodash": "^4.13.1",
+    "toastr": "^2.1.2",
+    "satellizer": "^0.14.1",
+    "angular-ui-router": "^0.3.1",
+    "angular-animate": "^1.5.7",
+    "angular-messages": "^1.5.7",
+    "angular-resource": "^1.5.7",
+    "angular-sanitize": "^1.5.7",
+    "angular-toastr": "^1.7.0",
+    "Ionicons": "ionicons#^2.0.1",
+    "animate.css": "^3.5.2",
+    "angular-cache": "^4.6.0",
+    "oclazyload": "^1.0.9"
+  }
+}
